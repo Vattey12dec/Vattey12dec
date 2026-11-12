@@ -1,3 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Vattey - Computer Science and Cybersecurity Student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f1e"/>
+      <stop offset="0.6" stop-color="#0d1426"/>
+      <stop offset="1" stop-color="#140f2b"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.15" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.9" cy="0.9" r="0.6">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#bg)" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="1.5"/>
+  <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#glowA)"/>
+  <rect x="2" y="2" width="1196" height="336" rx="18" fill="url(#glowB)"/>
+
+  <!-- Left: text -->
+  <text x="60" y="68" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="3" fill="#22d3ee">&lt; CS &amp; CYBERSECURITY STUDENT /&gt;</text>
+
+  <text x="58" y="158" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="92" font-weight="800" fill="url(#title)">VATTEY</text>
+  <rect x="60" y="176" width="190" height="4" rx="2" fill="url(#title)"/>
+
+  <text x="60" y="214" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#e5e7eb">Computer Science &amp; Cybersecurity Student</text>
+  <text x="60" y="240" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#94a3b8">American University of Phnom Penh · ACLEDA University of Business</text>
+  <text x="60" y="266" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#64748b">Build it. Break it in the lab. Fix it. Repeat.</text>
+
+  <!-- Tags -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13" text-anchor="middle">
+    <rect x="60" y="284" width="108" height="30" rx="15" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.6"/>
+    <text x="114" y="304" fill="#67e8f9">Networking</text>
+    <rect x="178" y="284" width="100" height="30" rx="15" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.6"/>
+    <text x="228" y="304" fill="#c4b5fd">Security</text>
+    <rect x="288" y="284" width="92" height="30" rx="15" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.6"/>
+    <text x="334" y="304" fill="#67e8f9">Android</text>
+    <rect x="390" y="284" width="70" height="30" rx="15" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.6"/>
+    <text x="425" y="304" fill="#c4b5fd">Web</text>
+  </g>
+
+  <!-- Right: terminal window -->
+  <g>
+    <rect x="720" y="52" width="426" height="236" rx="12" fill="#070b16" stroke="#a78bfa" stroke-opacity="0.45" stroke-width="1.5"/>
+    <path d="M720 64a12 12 0 0 1 12-12h402a12 12 0 0 1 12 12v22H720z" fill="#111a30"/>
+    <circle cx="743" cy="69" r="6" fill="#f87171"/>
+    <circle cx="763" cy="69" r="6" fill="#fbbf24"/>
+    <circle cx="783" cy="69" r="6" fill="#34d399"/>
+    <text x="933" y="74" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748b" text-anchor="middle">vattey@lab: ~</text>
+
+    <g font-family="Consolas, 'Courier New', monospace" font-size="15">
+      <text x="744" y="122"><tspan fill="#34d399">$</tspan><tspan fill="#e5e7eb"> whoami</tspan></text>
+      <text x="744" y="146" fill="#67e8f9">vattey</text>
+
+      <text x="744" y="178"><tspan fill="#34d399">$</tspan><tspan fill="#e5e7eb"> cat skills.txt</tspan></text>
+      <text x="744" y="202" fill="#c4b5fd">Java · Kotlin · Dart · Python</text>
+
+      <text x="744" y="234"><tspan fill="#34d399">$</tspan><tspan fill="#e5e7eb"> ./learn --topic security</tspan></text>
+      <text x="744" y="258"><tspan fill="#34d399">[ OK ]</tspan><tspan fill="#94a3b8"> keep building</tspan></text>
+      <rect x="868" y="245" width="9" height="16" fill="#22d3ee">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
 ## Hi, I'm Vattey! 👋
 
 ## 👨‍💻 About Me
