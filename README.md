@@ -2,16 +2,13 @@
   <img src="https://github.com/Vattey12dec/SVG-Cover/blob/main/README.svg" alt="Vattey cover" width="100%" />
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science and Cybersecurity student at the **American University of Phnom Penh** and **ACLEDA University of Business**. I enjoy understanding how systems work, from the network cables up to the apps people use. I like building things, breaking them in a safe lab, and then fixing them.
 
-- 🎓 Studying **Computer Science and Cybersecurity** at university
-- 🔭 Currently learning **Networking, Operating Systems, Cybersecurity and Mobile Development**
-- 🛠️ Building **Android apps, web apps (Laravel & Django) and server labs**
-- 🌱 Exploring **Windows Server, Web Exploitable, Forensics, Cryptography, Penetesting and Cisco Packet Tracer**
-- 🚩 Practicing **CTF challenges** to sharpen my security skills
-- 📫 Reach me: **vatteytvth2006@gmail.com** or [LinkedIn](linkedin.com/in/vattey-thorng-thvt12)
+Currently, I'm learning **networking, operating systems, cybersecurity and mobile development**. I build **Android apps, web apps (Laravel and Django) and server labs**, and I'm exploring **Windows Server, web exploitation, forensics, cryptography, penetration testing and Cisco Packet Tracer**. I also practice **CTF challenges** to sharpen my security skills.
+
+📫 You can reach me at **vatteytvth2006@gmail.com** or on [LinkedIn](https://linkedin.com/in/vattey-thorng-thvt12).
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatteytvth2006@gmail.com) 
