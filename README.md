@@ -7,9 +7,9 @@
 I'm a Computer Science and Cybersecurity student at the **American University of Phnom Penh** and **ACLEDA University of Business**. I enjoy understanding how systems work, from the network cables up to the apps people use. I like building things, breaking them in a safe lab, and then fixing them.
 
 - 🎓 Studying **Computer Science and Cybersecurity** at university
-- 🔭 Currently learning **Networking, Operating Systems, Cybersecurity and Calculus**
+- 🔭 Currently learning **Networking, Operating Systems, Cybersecurity and Mobile Development**
 - 🛠️ Building **Android apps, web apps (Laravel & Django) and server labs**
-- 🌱 Exploring **Windows Server, Active Directory and Cisco Packet Tracer**
+- 🌱 Exploring **Windows Server, Web Exploitable, Forensics, Cryptography, Penetesting and Cisco Packet Tracer**
 - 🚩 Practicing **CTF challenges** to sharpen my security skills
 - 💬 Ask me about **Java, Kotlin, Dart, Python or networking**
 - 📫 Reach me: **vatteytvth2006@gmail.com** or [LinkedIn](linkedin.com/in/vattey-thorng-thvt12)
