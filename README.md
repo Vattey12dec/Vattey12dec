@@ -11,7 +11,6 @@ I'm a Computer Science and Cybersecurity student at the **American University of
 - 🛠️ Building **Android apps, web apps (Laravel & Django) and server labs**
 - 🌱 Exploring **Windows Server, Web Exploitable, Forensics, Cryptography, Penetesting and Cisco Packet Tracer**
 - 🚩 Practicing **CTF challenges** to sharpen my security skills
-- 💬 Ask me about **Java, Kotlin, Dart, Python or networking**
 - 📫 Reach me: **vatteytvth2006@gmail.com** or [LinkedIn](linkedin.com/in/vattey-thorng-thvt12)
 
 ## 🌐 Socials:
