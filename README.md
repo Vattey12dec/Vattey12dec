@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vattey12dec/SVG-Cover/71a8f19ed25c437dd98aaf23de970c4eabea1b70/README.svg" alt="Vattey cover" width="100%" />
+  <img src="https://github.com/Vattey12dec/SVG-Cover/blob/main/README.svg" alt="Vattey cover" width="100%" />
 </div>
 
 ## 👨‍💻 About Me
